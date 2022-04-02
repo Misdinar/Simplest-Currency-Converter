@@ -1,0 +1,15 @@
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\bin\Debug\netstandard2.0\Simplest Crypto Converter.deps.json
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\bin\Debug\netstandard2.0\Simplest Crypto Converter.dll
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\bin\Debug\netstandard2.0\Simplest Crypto Converter.pdb
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\Simplest Crypto Converter.csproj.AssemblyReference.cache
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\Simplest Crypto Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\Simplest Crypto Converter.AssemblyInfoInputs.cache
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\Simplest Crypto Converter.AssemblyInfo.cs
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\Simplest Crypto Converter.csproj.CoreCompileInputs.cache
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\Simplest Crypto Converter.dll
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\refint\Simplest Crypto Converter.dll
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\Simplest Crypto Converter.pdb
+D:\SMT6\PBKK\VS22\Simplest Crypto Converter\Simplest Crypto Converter\obj\Debug\netstandard2.0\ref\Simplest Crypto Converter.dll

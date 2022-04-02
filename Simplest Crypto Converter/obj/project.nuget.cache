@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IC/XkREuO2RkStEFm5cGwp9duYkrO8aBj05axKbcz7CK1TUktwr6eyvfF0JK9MUufyn+UmAF6EoGd+J4WKksfA==",
+  "success": true,
+  "projectFilePath": "D:\\SMT6\\PBKK\\VS22\\Simplest Crypto Converter\\Simplest Crypto Converter\\Simplest Crypto Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

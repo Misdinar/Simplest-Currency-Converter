@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEv1a963rwWp0L8Ki+WSLwUDMoNw9Tdx3+AgOAXCZ8MfNgkq98So9j0ACp1aJvTWvAElIwU+bYzAILGR85/IZA==",
+  "success": true,
+  "projectFilePath": "D:\\SMT6\\PBKK\\VS22\\Simplest Crypto Converter\\Simplest Crypto Converter.iOS\\Simplest Crypto Converter.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

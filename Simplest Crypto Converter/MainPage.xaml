@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Simplest_Crypto_Converter.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Selamat Datang di Crypto Converter!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Cek Harga Crypto Sekarang!" FontSize="Title" Padding="30,0,30,0" HorizontalOptions="Center"/>
+        <Label Text="Harga Crypto per tanggal 2 April 2022" FontSize="16" Padding="30,0,30,0" HorizontalOptions="Center"/>
+        <Label Text="Pilih Crypto" FontSize="Large"  Padding="30,24,30,0"/>
+        <RadioButton x:Name="RBBitcoin" Content="Bitcoin" Margin="30,0,0,0" CheckedChanged="CryptoChanged" IsChecked="True"/>
+        <RadioButton x:Name="RBEthereum" Content="Ethereum" Margin="30,0,0,0"  CheckedChanged="CryptoChanged"/>
+        <RadioButton x:Name="RBNexus" Content="Nexus" Margin="30,0,0,0"  CheckedChanged="CryptoChanged"/>
+        <RadioButton x:Name="RBDogecoin" Content="Dogecoin"  Margin="30,0,0,0"  CheckedChanged="CryptoChanged"/>
+        <RadioButton x:Name="RBKomodo" Content="Komodo" Margin="30,0,0,0"  CheckedChanged="CryptoChanged"/>
+        <Label x:Name="label" Margin="30,0,0,10" />
+
+        <Label Text="Masukkan Jumlah Rupiah:" FontSize="Medium" Padding="30,0,30,0"/>
+        <Entry x:Name="entRupiah" Keyboard="Numeric" Margin="30,0,30,0" ClearButtonVisibility="WhileEditing"/>
+        <Label x:Name="labelCrypto" FontSize="Medium" Padding="30,0,30,0"/>
+        <Entry x:Name="entCrypto" Keyboard="Numeric" Margin="30,0,30,0" ClearButtonVisibility="WhileEditing"/>
+
+        <Grid Margin="30,10,30,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Text="Reset" Command="{Binding LocalCommand}" Grid.Row="0" Grid.Column="0" BackgroundColor="YellowGreen" BorderWidth="5"/>
+            <Button Text="Calculate" Command="{Binding CalculateCommand}" Grid.Row="0" Grid.Column="1" BackgroundColor="LightSeaGreen" BorderWidth="5"/>
+        </Grid>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Mau perhitungan Lebih Up to Date?" TextColor="Red" FontAttributes="Bold"/>
+                        <Span Text=" Klik disini!" FontAttributes="Bold"
+                              TextDecorations="Underline"
+                              TextColor="Blue">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding TapCommand}"
+                                                      CommandParameter="https://coinmarketcap.com/converter/">
+                                </TapGestureRecognizer>
+                            </Span.GestureRecognizers>
+                        </Span>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
